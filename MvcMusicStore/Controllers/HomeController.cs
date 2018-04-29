@@ -9,6 +9,7 @@ namespace MvcMusicStore.Controllers
     // View maps the Controller with the common name i.e. Home in this case
     public class HomeController : Controller
     {
+        // Index is the method which is mapped with the .cshtml file in View->Home dir
         public ActionResult Index()
         {
             return View();
