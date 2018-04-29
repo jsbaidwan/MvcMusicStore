@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace MvcMusicStore.Controllers
 {
+    // View maps the Controller with the common name i.e. Home in this case
     public class HomeController : Controller
     {
         public ActionResult Index()
