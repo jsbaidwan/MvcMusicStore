@@ -1,4 +1,8 @@
-﻿namespace MvcMusicStore.Models
+﻿using System.Linq;
+using System.Text;
+using System.Web;
+
+namespace MvcMusicStore.Models
 {
     public class Album
     {
