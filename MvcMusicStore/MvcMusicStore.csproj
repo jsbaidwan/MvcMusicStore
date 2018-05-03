@@ -155,6 +155,7 @@
     </Compile>
     <Compile Include="Models\Album.cs" />
     <Compile Include="Models\MvcMusicStoreContext.cs" />
+    <Compile Include="Models\Review.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
